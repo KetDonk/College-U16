@@ -1,0 +1,30 @@
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\bin\Debug\net6.0\Task1U16.exe
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\bin\Debug\net6.0\Task1U16.deps.json
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\bin\Debug\net6.0\Task1U16.runtimeconfig.json
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\bin\Debug\net6.0\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\bin\Debug\net6.0\Task1U16.pdb
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.csproj.AssemblyReference.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.AssemblyInfoInputs.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.AssemblyInfo.cs
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.csproj.CoreCompileInputs.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\refint\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.pdb
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\Task1U16.genruntimeconfig.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task 1\Task1U16\obj\Debug\net6.0\ref\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\bin\Debug\net6.0\Task1U16.exe
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\bin\Debug\net6.0\Task1U16.deps.json
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\bin\Debug\net6.0\Task1U16.runtimeconfig.json
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\bin\Debug\net6.0\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\bin\Debug\net6.0\Task1U16.pdb
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.csproj.AssemblyReference.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.AssemblyInfoInputs.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.AssemblyInfo.cs
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.csproj.CoreCompileInputs.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\refint\Task1U16.dll
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.pdb
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\Task1U16.genruntimeconfig.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\Task1U16\obj\Debug\net6.0\ref\Task1U16.dll
