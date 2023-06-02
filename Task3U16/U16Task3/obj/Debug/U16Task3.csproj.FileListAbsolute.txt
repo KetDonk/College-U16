@@ -1,0 +1,9 @@
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.csproj.AssemblyReference.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.Forms.AddGCSE.resources
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.Forms.Main.resources
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.Forms.NewPerson.resources
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.Forms.PersonView.resources
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.Properties.Resources.resources
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.csproj.GenerateResource.cache
+C:\Users\cposk\OneDrive\Desktop\Unit-16-Code-main\final\Task3U16\U16Task3\obj\Debug\U16Task3.csproj.CoreCompileInputs.cache
